@@ -11,7 +11,7 @@
 
 # React Native Security
 
+# Database Security
+
 # Redux - How it works
 ![redux](https://user-images.githubusercontent.com/17165922/50688446-3083e100-102e-11e9-9337-fb61c97c53ff.JPG)
-
-# Database Security
